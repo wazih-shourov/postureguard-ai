@@ -34,7 +34,7 @@ Follow these steps to download the project from GitHub and run it on your local 
 ### 1. Clone the Repository
 Download the code from GitHub to your local machine:
 ```bash
-git clone https://github.com/YourUsername/posture-corrector.git
+git clone https://github.com/wazih-shourov/postureguard-ai.git
 cd posture-corrector
 ```
 *(Note: Replace the URL above with your actual GitHub repository URL).*
